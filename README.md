@@ -83,7 +83,7 @@ Get a free Groq key at: https://console.groq.com
 
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
 You need **2 terminals open at the same time**.
 
@@ -110,12 +110,12 @@ Then open your browser at: **http://localhost:8501**
 
 ---
 
-## 🖥️Using the App
+## Using the App
 
 1. Open **http://localhost:8501**
-2. Click **"Check Connection"** in the sidebar → should turn 🟢 green
+2. Click **"Check Connection"** in the sidebar → should turn  green
 3. Type your question in the text box
-4. Click **Send ↗**
+4. Click **Send**
 5. View the AI answer + expand **"source passages retrieved"** to see which documents were used
 
 ---
